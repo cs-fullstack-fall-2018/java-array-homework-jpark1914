@@ -1,4 +1,4 @@
-# Java_Array_Classwork3
+# Java_Array_Homework
 
 ### Exercise 28:
 In your main function:
